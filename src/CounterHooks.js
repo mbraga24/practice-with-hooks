@@ -17,7 +17,7 @@ const CounterHooks = () => {
     <div>
       <h1>Function Component - Hooks</h1>
       <h2>Counter: {count}</h2>
-      <button onClick={handleClick}> Click here to count</button>
+      <button onClick={handleClick}>Add 1</button>
   </div>
   )
 }
